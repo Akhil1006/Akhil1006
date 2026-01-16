@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akhil 
 - 👀 I’m interested in Advanced AI, Cloud, Data Engineering
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Different Data Engineering Projects
+- 🌱 I’m currently learning AI, Data Engineering
+- 💞️ I’m looking to collaborate on Different AI, Software and Data Engineering Projects
 - 📫 How to reach me akhil.dataengineer06@gmail.com
 - 😄 Pronouns: He
 - ⚡ 
