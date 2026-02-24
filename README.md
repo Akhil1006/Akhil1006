@@ -2,7 +2,6 @@
 - 👀 I’m interested in Advanced AI, Cloud, and Software Engineering
 - 🌱 I’m currently learning AI, Data Engineering
 - 💞️ I’m looking to collaborate on Different AI, Software and Data Engineering Projects
-- 📫 How to reach me akhil.dataengineer06@gmail.com
 - 😄 Pronouns: He
 - ⚡ 
 
